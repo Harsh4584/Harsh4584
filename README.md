@@ -1,4 +1,4 @@
-![logo](https://github.com/Harsh4584/Harsh4584/blob/main/banner.jpg)
+![Data Science Banner](https://github.com/Harsh4584/Harsh4584/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Harsh Jangid</h1>
 <h3 align="center">Aspiring Data Scientist | Python & Machine Learning Enthusiast from India 🇮🇳</h3>
