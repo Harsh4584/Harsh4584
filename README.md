@@ -69,7 +69,6 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
        alt="harsh4584" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh4584&theme=default" />
-</p>
+
+
 
