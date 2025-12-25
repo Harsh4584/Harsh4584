@@ -63,11 +63,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
        alt="harsh4584" />
 </p>
 
-<p>&nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=harsh4584&show_icons=true&locale=en"
-       alt="harsh4584" />
-</p>
+
 
 
 
